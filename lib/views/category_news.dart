@@ -54,7 +54,7 @@ class _CategoryState extends State<CategoryNews> {
           Opacity(
             opacity: 0,
             child: Container(
-                padding: EdgeInsets.symmetric(horizontal: 16),
+                padding: EdgeInsets.symmetric(horizontal: 17),
                 child: Icon(Icons.share,)),
           )
         ],
